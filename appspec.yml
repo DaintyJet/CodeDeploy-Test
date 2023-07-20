@@ -17,5 +17,3 @@ hooks:
     - location: scripts/app2.sh
       timeout: 30
       runas: root
-  ApplicationStop:
-  
